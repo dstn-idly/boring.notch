@@ -94,7 +94,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "'Tocando agora' era a única opção em versões anteriores e funciona em todos os aplicativos de mídia."
+            "value" : "'Reproduzindo' era a única opção em versões anteriores e funciona em todos os aplicativos de mídia."
           }
         },
         "ru" : {
@@ -277,6 +277,12 @@
             "value" : "%.1fs"
           }
         },
+        "en-GB" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%.1fs"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -324,6 +330,12 @@
     "%.1fx" : {
       "localizations" : {
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%.1fx"
+          }
+        },
+        "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "%.1fx"
@@ -638,7 +650,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cor de destaque"
+            "value" : "Cor secundária"
           }
         },
         "ru" : {
@@ -820,7 +832,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acesso à Acessibilidade necessário"
+            "value" : "Permissões de Acessibilidade Necessárias"
           }
         },
         "ru" : {
@@ -1524,7 +1536,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Permitir acesso"
+            "value" : "Permitir Acesso"
           }
         },
         "ru" : {
@@ -1754,7 +1766,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Permitir mostrar guias"
+            "value" : "Sempre mostrar abas"
           }
         },
         "ru" : {
@@ -2238,6 +2250,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Automatisch"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automático"
           }
         },
         "ru" : {
@@ -3277,6 +3295,12 @@
             "value" : "Boring Notch kan op de achtergrond controleren of er updates beschikbaar zijn. Je kunt dit op elk moment ook handmatig controleren via de menubalk."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O Boring Notch pode verificar atualizações em segundo plano. Mesmo assim, você ainda pode verificar manualmente a partir da barra de menus a qualquer momento."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4130,6 +4154,12 @@
             "value" : "Om de taal van de app te wijzigen, moet je Boring Notch opnieuw opstarten."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "É preciso reiniciar o Boring Notch para alterar o idioma."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4468,6 +4498,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Controleer automatisch op updates"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verificar atualizações automaticamente"
           }
         },
         "ru" : {
@@ -7549,6 +7585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Updates automatisch downloaden en installeren"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baixar e instalar atualizações automaticamente"
           }
         },
         "ru" : {
@@ -11915,6 +11957,12 @@
             "value" : "Houd Boring Notch up-to-date"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantenha o Boring Notch atualizado"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11930,7 +11978,15 @@
       }
     },
     "Keep newer shelf items in front" : {
-      "comment" : "A toggle that allows users to reverse the order of shelf items."
+      "comment" : "A toggle that allows users to reverse the order of shelf items.",
+      "localizations" : {
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mantenha itens da estante mais recentes na frente"
+          }
+        }
+      }
     },
     "Keyboard Source" : {
       "localizations" : {
@@ -12002,6 +12058,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Taal"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Idioma"
           }
         },
         "ru" : {
@@ -17990,6 +18052,12 @@
             "value" : "Realtime audiogolfvorm"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visualização de onda de áudio em tempo real"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -18719,6 +18787,12 @@
             "value" : "Vereist macOS 14.2 of hoger. Werk macOS bij om realtime audiogolfvorm in te schakelen."
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Requer macOS 14.2 ou posterior. Atualize o macOS para habilitar a visualização de onda de áudio em tempo real."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19084,6 +19158,12 @@
             "value" : "Nu herstarten"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reiniciar Agora"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -19122,6 +19202,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Opnieuw opstarten om de taal toe te passen"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reinicie para aplicar idioma"
           }
         },
         "ru" : {
@@ -22560,6 +22646,12 @@
             "value" : "Accentkleur"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cor secundária"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22949,6 +23041,12 @@
             "value" : "Inline"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alinhado"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -22982,6 +23080,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Standaard"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Padrão"
           }
         },
         "ru" : {
@@ -23581,6 +23685,12 @@
             "value" : "Systeemstandaard"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Padrão do sistema"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23727,6 +23837,12 @@
             "value" : "Tijd tot volledig opgeladen: %@"
           }
         },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo até Carga Máxima: %@"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
@@ -23754,6 +23870,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tijd tot volledig opgeladen: Berekenen..."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo até Carga Máxima: Calculando..."
           }
         },
         "ru" : {
@@ -23788,7 +23910,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tempo até o vazio: %@"
+            "value" : "Tempo até acabar: %@"
           }
         },
         "ru" : {
@@ -23818,6 +23940,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tijd tot leeg: Berekenen..."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tempo até acabar: Calculando..."
           }
         },
         "ru" : {
@@ -24954,6 +25082,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gebruikt Accelerate FFT voor de audio van de afspeelapp. Hiervoor is toestemming voor audio-opname vereist en het verbruikt iets meer CPU-vermogen."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usa Accelerate FFT no áudio do app. Requer permissão de captura de áudio e usa um pouco mais da CPU."
           }
         },
         "ru" : {
