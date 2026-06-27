@@ -1,0 +1,45 @@
+boringNotch/components/Music/MediaProgressBar.swift
+  s_3f2f06d1275bd8::t_4d69a15fb94c08 31-42,59,106,112,121,142,158,171
+  s_3f2f06d1275bd8::t_90bc7d8ffb762c 28-30
+  s_3f2f06d1275bd8::t_654dafbddfadcc 43-45,56-58
+  s_3f2f06d1275bd8::t_7d3c481f64e483 60-62,103-105
+  s_3f2f06d1275bd8::t_f92da2270698e0 107-111
+  s_3f2f06d1275bd8::t_bb4f59a5a1f82d 113-115,118-120
+  s_3f2f06d1275bd8::t_1e34e39c9c5a5b 122-124,139-141
+  s_3f2f06d1275bd8::t_f32fcceaec1def 143-145,155-157
+  s_3f2f06d1275bd8::t_3c5f22b6c8e8ce 159-161,168-170
+  s_3f2f06d1275bd8::t_306c96fb31a265 172-174
+  s_3f2f06d1275bd8::t_95e1549e1bb1b3 1-27,46-55,63-102,116-117,125-138,146-154,162-167,175-181
+boringNotch/components/Settings/Views/MediaSettingsView.swift
+  s_3f2f06d1275bd8::t_5b783ba8aef5ec 23
+  s_3f2f06d1275bd8::t_478b0632cdafd5 77,79-83
+  s_3f2f06d1275bd8::t_ba32e93249571d 21-22
+  s_3f2f06d1275bd8::t_6e5b8044e14ec9 24
+  s_3f2f06d1275bd8::t_e205c93ef60224 74-76
+  s_3f2f06d1275bd8::t_6dc3d4d9bd6c06 78
+  s_3f2f06d1275bd8::t_aedcf0e67b8bb5 84
+  s_3f2f06d1275bd8::t_d10066aba33ae5 68-73
+boringNotch/models/Constants.swift
+  s_3f2f06d1275bd8::t_71e43e889f63de 267
+  s_3f2f06d1275bd8::t_1882745d793532 265-266
+boringNotch.xcodeproj/project.pbxproj
+  s_3f2f06d1275bd8::t_4a079e1b21bab1 99,283,797,1001
+boringNotch/ContentView.swift
+  s_3f2f06d1275bd8::t_ab445261d043ad 69,74,76,78,80,82-83,85,117-127,154-171
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "66de8a3da4697852c6cdf9fa8ef68d802754ea5b",
+  "prompts": {},
+  "sessions": {
+    "s_3f2f06d1275bd8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6473c7c1-9006-44b8-9e2b-140eefe86ba4",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "dustin thach <epikunder321123@gmail.com>"
+    }
+  }
+}
