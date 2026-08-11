@@ -1,0 +1,24 @@
+boringNotch/ContentView.swift
+  s_3f2f06d1275bd8::t_47fdc113519b47 158-159
+boringNotch/components/Music/MediaProgressBar.swift
+  s_3f2f06d1275bd8::t_686f0e13b3485a 124-128
+  s_3f2f06d1275bd8::t_7ada442d6306ba 27-31
+  s_3f2f06d1275bd8::t_940c85f115837f 51-60,63-76
+  s_3f2f06d1275bd8::t_726c1a88fe6137 77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "60445adb424d14602e4cccb5d6a7c5923e0ecd7d",
+  "prompts": {},
+  "sessions": {
+    "s_3f2f06d1275bd8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6473c7c1-9006-44b8-9e2b-140eefe86ba4",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "dustin thach <epikunder321123@gmail.com>"
+    }
+  }
+}
